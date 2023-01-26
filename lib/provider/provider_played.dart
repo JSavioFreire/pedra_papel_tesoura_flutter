@@ -66,7 +66,6 @@ class Played extends ChangeNotifier {
         return 'Empate';
       }
     }
-
     return 'Ocorreu um erro no resultado';
   }
 }
